@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+wellness_dataset_ai.csv
+wellness_dataset_my.csv
+Training.xlsx
+
